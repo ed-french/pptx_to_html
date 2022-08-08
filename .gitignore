@@ -1,0 +1,6 @@
+input/*.svg
+input/*.html
+.venv/*
+output/*.html
+credentials.py
+__pycache__/*
